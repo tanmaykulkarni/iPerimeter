@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="perimeter.test.com.peri2.MyActivity" >
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <ImageView>
+        android:id="@id+/myImageView"
+    </ImageView>
+</menu>
+<!-- From: file:/C:/Users/sitaram/Downloads/Peri2/app/src/main/res/menu/my.xml -->
